@@ -71,6 +71,8 @@ args = []
 
 Keep any servers already in those files, and restart the app after editing.
 
+Setting it up with an AI agent? Point it at [llms-install.md](llms-install.md).
+
 ## Tools
 
 | Group | Tool | What it does |
