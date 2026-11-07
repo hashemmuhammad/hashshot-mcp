@@ -2,7 +2,7 @@
 
 Give your AI agent a camera on your Mac. The HashShot MCP server lets Claude, Claude Code, ChatGPT Codex, Cursor, VS Code, Windsurf and any other MCP client take screenshots, scroll and capture whole pages, read text on screen, record your screen and edit the result, with your permission each time.
 
-The server ships inside [HashShot](https://hashshot.app), a screenshot and screen recording app for Mac. Everything runs locally on your Mac: there is no cloud and no account.
+The server ships inside [HashShot](https://hashshot.app), a screenshot and screen recording app for Mac made by [HashCode FZE](https://hashcode.ae). Everything runs locally on your Mac: there is no cloud and no account.
 
 This repository holds the setup guide, example configurations and the [MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=hashshot) entry. The app itself is not open source and its code is not here.
 
@@ -126,6 +126,6 @@ Email support@hashshot.app, or use Support inside the app. Issues in this reposi
 
 ## License
 
-The documentation and example files in this repository are under the [MIT License](LICENSE). The HashShot app is proprietary software by HashCode FZE and is not covered by that license.
+The documentation and example files in this repository are under the [MIT License](LICENSE). The HashShot app is proprietary software by [HashCode FZE](https://hashcode.ae) and is not covered by that license.
 
 Claude and Claude Code are trademarks of Anthropic. ChatGPT and Codex are trademarks of OpenAI. Cursor, VS Code, Windsurf, Mac and macOS are trademarks of their owners. HashShot is not affiliated with or endorsed by them.
