@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.hashshot/mcp",
+  "title": "HashShot",
+  "description": "Screenshots, scrolling capture, screen recording, OCR and redaction on your Mac, through HashShot.",
+  "version": "1.0.0",
+  "websiteUrl": "https://hashshot.app/mcp-screenshot-server",
+  "icons": [
+    {
+      "src": "https://hashshot.app/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    }
+  ]
+}

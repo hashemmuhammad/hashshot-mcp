@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hashshot": {
+      "command": "/Applications/HashShot.app/Contents/MacOS/hashshot-mcp",
+      "args": []
+    }
+  }
+}

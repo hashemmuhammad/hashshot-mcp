@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "hashshot": {
+      "type": "stdio",
+      "command": "/Applications/HashShot.app/Contents/MacOS/hashshot-mcp",
+      "args": []
+    }
+  }
+}

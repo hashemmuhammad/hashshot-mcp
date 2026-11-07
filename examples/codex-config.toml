@@ -1,0 +1,3 @@
+[mcp_servers.hashshot]
+command = "/Applications/HashShot.app/Contents/MacOS/hashshot-mcp"
+args = []
